@@ -20,3 +20,5 @@ vendor/
 
 # Coverage
 coverage.txt
+
+web-service-gin
